@@ -1,0 +1,14 @@
+h1 {
+  margin-top: 50px;
+  text-align: center;
+  color: rgb(191, 148, 19);
+}
+.tugas {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
